@@ -1,3 +1,0 @@
-In master branch
-In develop branch
-In QA branch
