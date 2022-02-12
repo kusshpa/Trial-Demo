@@ -1,6 +1,19 @@
 
+git config --global user.name
+git config --global user.email
 git init
 git status
 git add .
 git status
 git commit -m "Message Here"
+git log
+ git branch branchname
+git checkout
+
+On CMD
+-ssh-keygen
+location(C:\Users\kushalpa/.ssh/id_rsa):
+after setting passphrase
+copy key
+past in github acc SSH key
+
